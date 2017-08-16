@@ -1,0 +1,9 @@
+﻿## Interface: 70200
+## Title: |cff1784d1ElvUI |rMy Profile
+## Author: Lifeismystery
+## Version: 1.0
+## Notes: My Profile
+## RequiredDeps: ElvUI
+## DefaultState: Disabled
+
+core.lua
