@@ -904,11 +904,11 @@ local function myUI()
 	E.private["general"]["glossTex"] = "ElvUI Blank"
 	E.private["general"]["dmgfont"] = "big_noodle_titling"
 	E.private["general"]["namefont"] = "big_noodle_titling"
-	E.private["install_complete"] = "E.version"
+	--Ваши настройки конец
 
 	--Возвращаем критические настройки
 	E.db.layoutSet = layout
-	--E.private["install_complete"] = install
+	E.private["install_complete"] = "E.version"
 
 	E:UpdateAll(true)
 	E:StaticPopup_Show("PRIVATE_RL")
