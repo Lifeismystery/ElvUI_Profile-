@@ -83,3 +83,8 @@ E.db["unitframe"]["units"]["raid"]["name"]["text_format"] = "[namecolor][class]"
 E.db["unitframe"]["units"]["target"]["name"]["text_format"] = ""
 E.db["unitframe"]["units"]["target"]["customTexts"]["lvlName"]["text_format"] = "[difficultycolor][level] [classification] [namecolor][class]"
 </code></pre>	
+
+### P.S. 
+
+Оригинальный плагин написан [этим](http://shadowmage.ru/about/) замечательным человеком. [Тут](https://www.youtube.com/watch?v=U6ZV_sPVYno&index=1&list=PLfgzSuaNSSQUh8EfwARn9_mWTXi1X0Gtx) есть его подробное видео, 
+объясняющее принцип работы всех строк
